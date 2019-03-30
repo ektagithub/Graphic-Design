@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="_x3C_Edashed_x5F_circle">
+    
+	
+    
+	<circle fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="12.0396,12.0396" cx="49.5" cy="49.5" r="46">
+    <animateTransform attributeName="transform"
+                      attributeType="XML"
+                      type="rotate"
+                      from="0 50 50"
+                      to="360 50 50"
+                      dur="10s"
+                      repeatCount="indefinite"/>
+    </circle>
+    
+</g>
+    <circle fill="#FFFFFF" cx="49.5" cy="49.5" r="46"/>
+<g id="circle">
+	<g>
+		<circle fill="#020202" cx="49.3" cy="49.8" r="40.8"/>
+        
+	</g>
+	<g>
+		<circle fill="none" stroke="#000000" stroke-miterlimit="10" cx="49.3" cy="49.8" r="40.8"/>
+	</g>
+</g>
+<g id="Rod">
+	<path fill="#F2E7E7" stroke="#000000" stroke-miterlimit="10" d="M30,63.5L30,63.5c-1.4,0-2.5-1.1-2.5-2.5V39
+		c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v22C32.5,62.4,31.4,63.5,30,63.5z">
+    <animateTransform id="Rod" attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      dur="1.3s"
+                      begin=".1"
+                      values="0,15;0,-15;0,15"
+                      repeatCount="indefinite" />
+    </path>
+</g>
+<g id="Rod5">
+	<path fill="#F2E7E7" stroke="#000000" stroke-miterlimit="10" d="M66,62.5L66,62.5c-1.4,0-2.5-1.1-2.5-2.5V38
+		c0-1.4,1.1-2.5,2.5-2.5l0,0c1.4,0,2.5,1.1,2.5,2.5v22C68.5,61.4,67.4,62.5,66,62.5z">
+         <animateTransform id="Rod5" attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      dur="1.3s"
+                           begin=".5"
+                      values="0,15;0,-15;0,15"
+                      repeatCount="indefinite" />
+    
+        </path>
+</g>
+<g id="Rod4">
+	<path fill="#F2E7E7" stroke="#000000" stroke-miterlimit="10" d="M57,62.5L57,62.5c-1.4,0-2.5-1.1-2.5-2.5V38
+		c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v22C59.5,61.4,58.4,62.5,57,62.5z">
+         <animateTransform id="Rod4" attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      dur="1.3s"
+                           begin=".4"
+                      values="0,15;0,-15;0,15"
+                      repeatCount="indefinite" />
+    
+    </path>
+</g>
+<g id="Rod3">
+	<path fill="#F2E7E7" stroke="#000000" stroke-miterlimit="10" d="M48,63.5L48,63.5c-1.4,0-2.5-1.1-2.5-2.5V39
+		c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v22C50.5,62.4,49.4,63.5,48,63.5z">
+     <animateTransform id="Rod3" attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      dur="1.3s"
+                      begin=".3"
+                      values="0,15;0,-15;0,15"
+                      repeatCount="indefinite" />
+        
+    </path>
+</g>
+    
+<path id="Rod2" fill="#F2E7E7" stroke="#000000" stroke-miterlimit="10" d="M39,63.5L39,63.5c-1.4,0-2.5-1.1-2.5-2.5V39
+	c0-1.4,1.1-2.5,2.5-2.5h0c1.4,0,2.5,1.1,2.5,2.5v22C41.5,62.4,40.4,63.5,39,63.5z">
+     <animateTransform id="Rod2" attributeName="transform"
+                      attributeType="XML"
+                      type="translate"
+                      dur="1.3s"
+                       begin=".2"
+                      values="0,15;0,-15;0,15"
+                      repeatCount="indefinite" />
+    
+    </path>
+</svg>
